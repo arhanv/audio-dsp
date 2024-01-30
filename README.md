@@ -1,2 +1,2 @@
 # patches
-a collection of my audio patches and music programs
+a collection of my audio programming work
